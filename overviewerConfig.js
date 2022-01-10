@@ -23,11 +23,11 @@ var overviewerConfig = {
         "LOWERRIGHT": 2
     },
     "worlds": [
-        "IslesMain"
+        "Isles"
     ],
     "map": {
         "debug": false,
-        "cacheTag": "1641725414",
+        "cacheTag": "1641802608",
         "north_direction": "lower-left",
         "controls": {
             "pan": true,
@@ -41,30 +41,26 @@ var overviewerConfig = {
     },
     "tilesets": [
         {
-            "name": "SkyblockIsles",
+            "name": "Isles",
             "zoomLevels": 7,
-            "defaultZoom": 1,
-            "maxZoom": 7,
-            "path": "SkyblockIsles",
+            "defaultZoom": 2,
+            "maxZoom": 5,
+            "path": "Isles",
             "base": "",
             "bgcolor": "#1a1a1a",
-            "world": "IslesMain",
+            "world": "Isles",
             "last_rendertime": 1641640000,
             "imgextension": "png",
             "isOverlay": false,
             "poititle": "Markers",
-            "showlocationmarker": true,
+            "showlocationmarker": false,
             "center": [
-                0,
-                0,
-                0
+                785,
+                64,
+                -464
             ],
-            "minZoom": 0,
-            "spawn": [
-                0,
-                0,
-                0
-            ],
+            "minZoom": 2,
+            "spawn": false,
             "north_direction": 0
         }
     ]
