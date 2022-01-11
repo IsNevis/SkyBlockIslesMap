@@ -3,9 +3,9 @@
         {
             "name": "Decrepit Sewers Dungeon",
             "icon": "Content_Dungeon.png",
-            "x": -922,
+            "x": -773,
             "y": 65,
-            "z": -1885
+            "z": 862
         },
         {
             "name": "Infested Pit Dungeon",
