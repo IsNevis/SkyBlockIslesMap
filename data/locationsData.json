@@ -9,10 +9,10 @@
         },
         {
             "name": "Infested Pit Dungeon",
-            "icon": "Content_Dungeon.png",
-            "x": -282,
-            "y": 35,
-            "z": -1829
+            "icon": "Profession_Jeweling.png",
+            "x": -800,
+            "y": 64,
+            "z": 829
         },
         {
             "name": "Lost Sanctuary Dungeon",
